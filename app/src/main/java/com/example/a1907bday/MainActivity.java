@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         String S ="scbhg";
         String vas="bsdcg";
         String v="b";
-
+        int a =3;
 
     }
 }

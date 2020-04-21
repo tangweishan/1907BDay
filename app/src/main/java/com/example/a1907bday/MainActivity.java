@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         String v="b";
         int a =3;
         int w =5;
+        String aa ="sjd";
     }
 }

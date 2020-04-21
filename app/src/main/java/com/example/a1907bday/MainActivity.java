@@ -14,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         String vas="bsdcg";
         String v="b";
         int a =3;
-
+        int w =5;
     }
 }
